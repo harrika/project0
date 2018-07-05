@@ -1,0 +1,44 @@
+aboutme
+--------------------
+TABLE - name
+location:  east africa
+height 182cm
+weight: 89.6kgs
+
+skills
+-------
+UNORDERED LIST - software skills
+ruby, java, javascript, python
+express, flask, sinatra
+angular.js, vuejs, scikit-learn
+
+cities
+----------
+CARDS - cities worked in
+hilversum
+jinja
+mbale
+kampala
+nairobi
+kigali
+nyagatare
+butare
+paidha
+
+
+links
+-----------
+ORDERED LIST - my favorite internet links
+google
+gmail
+drive.google.com
+dropbox.com
+youtube.com
+heroku.org
+coursera.org
+edx.org
+udacity.com
+
+
+
+

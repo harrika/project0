@@ -1,0 +1,61 @@
+
+@import url(fonts.googleapis.com/css?family=Roboto|Roboto+Condensed);
+
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+h1,h2,h3,h4,h4 {
+	font-family: 'Roboto', sans-serif;4
+}
+#banner {
+	padding-top: 60px;
+	background-image: linear-gradient(rgb(199, 206, 194,0.6),rgb(199, 206, 194,0)), url(../img/bmw.jpg);
+	background-size: cover;
+	background-position: center;
+	padding:70px 0px;
+	color: #fff;
+}
+
+#banner-data {
+	padding-top: 60px;
+	background-image: linear-gradient(rgb(199, 206, 194,0.6),rgb(199, 206, 194,0)), url(../img/jja.jpg);
+	background-size: cover;
+	background-position: center;
+	padding:40px 0px;
+	color: #fff;
+}
+
+.navbar {
+	background-color: #D8D9D1; 
+}
+
+.navbar-brand {
+	font-weight:800;
+	color: rgb(65, 102, 111)!important;
+}
+
+@media(max-width: 480px) {
+.container {
+	width: 350px;
+  }
+}
+.listing {
+	width:200px;
+	background-color: rgb(160, 188, 189);
+	margin: 30px;
+	padding: 20px;
+	border: 1px solid teal;
+}
+.listing a {
+	color: #fff;
+}
+.table {
+	width: 50%;
+	margin-left: 100px;
+	border: 1px solid magenta;
+}
+th {
+	background-color: rgb(230, 236, 216);
+}
